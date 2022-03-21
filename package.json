@@ -1,0 +1,25 @@
+{
+  "name": "urepeater",
+  "version": "1.0.0",
+  "description": "Repeat recording mocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngxutils/urepeater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngxutils/urepeater/issues"
+  },
+  "homepage": "https://github.com/ngxutils/urepeater#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "electron": "^17.1.2",
+    "simhash-js": "^1.0.0"
+  }
+}

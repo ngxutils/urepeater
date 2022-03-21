@@ -1,0 +1,25 @@
+{
+                "predicates": [
+                  {
+                    "contains": {
+                      "method": "GET",
+                      "path": "complete/search"
+                      ,"query":{"q" :"h","cp" :"1","client" :"gws-wiz","xssi" :"t","hl" :"ru","authuser" :"0","psi" :"x6E4YvDtFcqVxc8P0KK0iA8.1647878599915","dpr" :"1"}
+                    }
+                  }
+                  
+                ],
+                "responses": [
+                  {
+                    "is": {
+                      "statusCode": 200,
+                      "headers": {
+                        "Content-Type": "application/json;charset=UTF-8",
+                        "Status": 200
+                      },
+                      "body": )]}'
+[[["hh",46,[512,433,131,199,291],{"zh":"HeadHunter","zi":"","zp":{"gs_ssp":"eJzj4tFP1zc0NKpMTyozTlJgNGB0YPBiysgAAELvBWs"},"zs":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSHRrS_jnkNEcekymjgZu_16dSZLiqan9_bWv4Ft6k\u0026s\u003d10"}],["hm",46,[512,433,199,291],{"zh":"H\u0026amp;M","zi":"","zp":{"gs_ssp":"eJzj4tTP1TcwTLEoKFJgNGB0YPBiysgFAC7xBHE"},"zs":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSTa148VrPGAxRhvFYudQkvMx0m53iQF8AkY19hdzY\u0026s\u003d10"}],["h\u003cb\u003eoff\u003c\/b\u003e",0,[512,433,131]],["h\u003cb\u003eappymod\u003c\/b\u003e",0,[512,433]],["huawei",46,[512,433,199,291],{"zh":"Huawei","zi":"","zp":{"gs_ssp":"eJzj4tTP1TcwLMzOMVRgNGB0YPBiyyhNLE_NBABFUwYe"},"zs":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQSqyy-Hak7yBQzU0WCZGyREAVqouZkMuU6YodbZ_Q\u0026s\u003d10"}],["h\u003cb\u003eltv\u003c\/b\u003e",0,[512,433,131]],["hyundai",46,[512,433,199,291],{"zh":"Hyundai Motor","zi":"","zp":{"gs_ssp":"eJzj4tDP1TdIyikvVmA0YHRg8GLPqCzNS0nMBABK_Aab"},"zs":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcR03VNQ2Bkw2n574_SuLU5WheJNHBZAzFDtK1Ht_mQ\u0026s\u003d10"}],["h\u003cb\u003eqd\u003c\/b\u003e",0,[512]],["h\u003cb\u003eaval\u003c\/b\u003e",0,[512,433,131]],["h\u003cb\u003eonor 50\u003c\/b\u003e",0,[512,433]]],{"q":"Auh8n-ZfNoPZnJfbulc4K8BCgIg"}]
+                    }
+                  }
+                ]
+              }
