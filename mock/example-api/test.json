@@ -1,0 +1,23 @@
+{
+                "predicates": [
+                  {
+                    "contains": {
+                      "method": "GET",
+                      "path": "test1"
+                      
+                    }
+                  }
+                ],
+                "responses": [
+                  {
+                    "is": {
+                      "statusCode": 200,
+                      "headers": {
+                        "Content-Type": "application/json;charset=UTF-8",
+                        "Status": 200
+                      },
+                      "body": {"result":  "ok"}
+                    }
+                  }
+                ]
+              }

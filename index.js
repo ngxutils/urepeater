@@ -15,7 +15,6 @@ function createFile(requestId) {
     console.log(params,response,request);
     const modifyPath = params.response.url
         .replace(/http(s)?:\/\//gi, "")
-        .replace()
         .split("/")
         .reverse();
     const folder = modifyPath.pop();
